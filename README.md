@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Idjaz
-- 👀 My main stack in C#/ .NET, Python, Typescript
+- 👀 My main stack in C#/ .NET, React, Python, Javascript/ Typescript
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on new & interesting learning opportunities :smiley:
 - 📫 Contact me on: [LinkedIn](https://www.linkedin.com/in/muhammad-idjaz-ali-hossanee-5b5913167/) | [Facebook](https://www.facebook.com/idjaz.hossanee.90/) | <idjazhossanee@gmail.com>
